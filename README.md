@@ -1,6 +1,16 @@
 # Soft Robots Lab Handbook
 
-This handbook describes the expectations for members of the Wesleyan Soft Robots lab. It takes inspiration from the [Low-Power](https://github.com/lowepowerlab/lab_handbook), [Olanrewaju](https://ayokunle.notion.site/Lab-Manual-739058eaa0da4ab6bc8f6c310f896426), and [Barber](https://www.annikabarberlab.com/barber-lab-manual) lab handbooks. This lab handbook is licensed under a Creative Commons license. If you are writing a handbook for your own lab, you may copy text from this handbook with proper attribution. 
+This handbook describes the expectations for members of the Wesleyan Soft Robots lab. It will tell you about the values, mission, goals, and objectives of the group. It also provides helpful information to help you get started in the lab. Many of the questions you have about getting started in the lab will initially be answered with "Have you checked the lab handbook?". This is a living document that will continue to change. If you notice that there is any information missing that you think is important for getting started or operating on a day-to-day basis in the lab, let the professor know, and we will add it to the handbook. 
+
+This handbook takes inspiration from the [Low-Power](https://github.com/lowepowerlab/lab_handbook), [Olanrewaju](https://ayokunle.notion.site/Lab-Manual-739058eaa0da4ab6bc8f6c310f896426), and [Barber](https://www.annikabarberlab.com/barber-lab-manual) lab handbooks. This lab handbook is licensed under a Creative Commons license. If you are writing a handbook for your own lab, you may copy text from this handbook with proper attribution. 
+
+## Values
+
+Here are some guiding principles and standards that we hold dear and that inform our work and approach to the world:
+1. We value people over projects and cultivate a collaborative community.
+2. We believe failure is a natural part of learning and celebrate not just our positive results but also our initial attempts, ongoing efforts, and failed strategies. Failure is *information*!
+3. We embrace fast and frugal prototyping approaches that both allow us to test our understanding and theories, and make science more accessible to people who couldn't otherwise afford to get involved.
+4. We seek projects and problems with potential to have a positive impact on human lives, and carefully consider how we want to be involved in projects that have potential to have a negative impact on human lives. 
 
 ## Expectations for people in the Soft Robots Lab
 
