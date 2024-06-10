@@ -34,13 +34,7 @@ All faculty, staff, and students associated with the Soft Robots Lab at Wesleyan
 * All lab protocols and standard operating procedures for equipment purchased from an outside company should be stored in the lab [Google Drive folder](https://drive.google.com/drive/folders/1S2uv7es-n0WLCeB9gfUZ6MsCWljhmEHi?usp=sharing). For equipment/resources developed in the lab, the `README` file for the GitHub repository associated with the resource should contain detailed instructions on how to use it.
 * **At the end of every meeting with the professor, both you and the professor should pick up one tool in the lab and put it away.** 
 
-## Using a new piece of equipment for the first time
-
-* Check in with the professor to see what kind of training you might need before using this equipment. 
-* Locate any existing resources on how to use the equipment. If the piece of equipment is very new, the only "resource" might be a human being who has more experience with that kind of equipment than you (ie, the professor). Ideally, however, there will be an existing standard operating procedure (SOP) for how to use the equipment. 
-* Step through the SOP as you use the equipment for the first time. Make suggestions or edits to improve the clarity as you go. If there are no pictures, add pictures. If the pictures could be improved, take better ones. 
-
-## Expectations for the professor
+## Expectations of the professor
 
 You can expect the professor to ...
 * Support you in achieving your long-term goals. This could mean prompting you to think about what you might want to do after you graduate, and giving you tasks that can move you towards those goals when possible; introducing you to other researchers in the field and promoting your work in talks; writing recommendation letters for you; and sending you to conferences or investing in training.
@@ -48,6 +42,12 @@ You can expect the professor to ...
 * Give you feedback on a timely basis (within 3 business days).
 * Be available in person and via Discord on a regular basis, including meetings twice a semester (during the school year) and at least every 3 days, ideally every day (during the summer) to discuss your research (and anything else you’d like to discuss).
 * Give my perspective on where the lab is going, where the field is going, tips about surviving and thriving in academia, and advice about choosing to continue in academia or not (spoiler: I advise everyone to get a job in industry first before getting a PhD).
+
+## Using a new piece of equipment for the first time
+
+* Check in with the professor to see what kind of training you might need before using this equipment. 
+* Locate any existing resources on how to use the equipment. If the piece of equipment is very new, the only "resource" might be a human being who has more experience with that kind of equipment than you (ie, the professor). Ideally, however, there will be an existing standard operating procedure (SOP) for how to use the equipment. 
+* Step through the SOP as you use the equipment for the first time. Make suggestions or edits to improve the clarity as you go. If there are no pictures, add pictures. If the pictures could be improved, take better ones. 
 
 ## Authorship and research products
 
