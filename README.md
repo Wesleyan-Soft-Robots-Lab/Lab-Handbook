@@ -12,7 +12,9 @@ Here are some guiding principles and standards that we hold dear and that inform
 3. We embrace fast and frugal prototyping approaches that both allow us to test our understanding and theories, and make science more accessible to people who couldn't otherwise afford to get involved.
 4. We seek projects and problems with potential to have a positive impact on human lives, and carefully consider how we want to be involved in projects that have potential to have a negative impact on human lives. 
 
-## Expectations for people in the Soft Robots Lab
+## Expectations
+
+These expectations are, of course, in addition to the general expectations set by the [Wesleyan Student Code of Conduct](https://www.wesleyan.edu/studentaffairs/studenthandbook/student-conduct/index.html) and all [HR code of conduct policies](https://www.wesleyan.edu/hr/handbook/standards-of-conduct/index.html). 
 
 Science is hard. There can be more failures than successes, and we may need to pivot multiple times before finding something that works. In this lab, we strive for the challenges to come from the science, not from the environment. Everyone should be able to engage with science in a hostility-free, challenging, and rewarding professional lab environment.
 
