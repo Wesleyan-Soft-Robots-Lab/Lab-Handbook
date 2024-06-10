@@ -31,14 +31,17 @@ All faculty, staff, and students associated with the Soft Robots Lab at Wesleyan
 * Attend and actively participate in all group meetings. Engage with your colleagues during these meetings as well as discussing your own work with the professor. A big part of the reason why we try to meet with so many people at once is so that you all can make connections with each other and learn what everyone else is doing. Do your part to create a climate of engagement and mutual respect.
 * When folks are new, keep an eye out for whether they are struggling. Not everyone is comfortable interrupting others, so ask newbies if there is anything they need help with.
 * Scientists have to be careful. Don't rush your work. Plan and organize it carefully. If performing a new protocol or using a new piece of equipment, ask for help and walk through the steps. Everyone makes mistakes and gets overwhelmed. However, if you are consistently damaging lab equipment, failing to document your work, or not consistently engaging with the lab, you will not be allowed to continue in the lab.
-* All lab protocols and standard operating procedures for equipment purchased from an outside company should be stored in the lab [Google Drive folder](https://drive.google.com/drive/folders/1S2uv7es-n0WLCeB9gfUZ6MsCWljhmEHi?usp=sharing). For equipment/resources developed in the lab, the `README` file for the GitHub repository associated with the resource should contain detailed instructions on how to use it. 
+* All lab protocols and standard operating procedures for equipment purchased from an outside company should be stored in the lab [Google Drive folder](https://drive.google.com/drive/folders/1S2uv7es-n0WLCeB9gfUZ6MsCWljhmEHi?usp=sharing). For equipment/resources developed in the lab, the `README` file for the GitHub repository associated with the resource should contain detailed instructions on how to use it.
+* **At the end of every meeting with the professor, both you and the professor should pick up one tool in the lab and put it away.** 
 
 ## Using a new piece of equipment for the first time
+
 * Check in with the professor to see what kind of training you might need before using this equipment. 
 * Locate any existing resources on how to use the equipment. If the piece of equipment is very new, the only "resource" might be a human being who has more experience with that kind of equipment than you (ie, the professor). Ideally, however, there will be an existing standard operating procedure (SOP) for how to use the equipment. 
 * Step through the SOP as you use the equipment for the first time. Make suggestions or edits to improve the clarity as you go. If there are no pictures, add pictures. If the pictures could be improved, take better ones. 
 
 ## Expectations for the professor
+
 You can expect the professor to ...
 * Support you in achieving your long-term goals. This could mean prompting you to think about what you might want to do after you graduate, and giving you tasks that can move you towards those goals when possible; introducing you to other researchers in the field and promoting your work in talks; writing recommendation letters for you; and sending you to conferences or investing in training.
 * Support you in achieving your short-term goals. This means giving you or directing you towards resources that can help you accomplish your tasks in the lab, and checking in with you periodically to make sure that you have all of the resources you need. 
@@ -46,55 +49,37 @@ You can expect the professor to ...
 * Be available in person and via Discord on a regular basis, including meetings twice a semester (during the school year) and at least every 3 days, ideally every day (during the summer) to discuss your research (and anything else you’d like to discuss).
 * Give my perspective on where the lab is going, where the field is going, tips about surviving and thriving in academia, and advice about choosing to continue in academia or not (spoiler: I advise everyone to get a job in industry first before getting a PhD).
 
-### Expectations for first-semester undergraduate researchers 
-To fill out
-
-### Expectations for second-semester undergraduate researchers
-To fill out
-
-### Undergraduate research beyond the second semester
-To fill out
-
-### Expectations for summer work
-To fill out
-
-### Expectations for postdocs
-To fill out
-
-### Expectations for post-bac technicians
-To fill out
-
-### Expectations for BA/MA candidates
-To fill out
-
 ## Authorship and research products
+
 * Concerns over authorship, ownership, acknowledging contributions, experimental data etc., should be discussed early and often with all parties.
 * Be aware that your notes, records, and all tangible research data that are developed through the lab are property of the lab. This is why all GitHub repositories must be made through the Wesleyan Soft Robots Lab organization, and why all data must be uploaded to the Google drive. When you leave the lab, I encourage you to take copies of your data with you, but one full set of all data/files/notes must stay in the lab, with appropriate and clear documentation. 
 
-### Senior thesis projects
-To fill out
+## Senior thesis projects
 
-### Conferences and conference attendance
-To fill out
+You are encouraged to consider doing a senior thesis project related to your work in the lab. However, know that in order to achieve high or highest honors for your thesis, you must drive the project -- not the professor. That means you should be coming up with the research ideas, trying to solve obstacles on your own, and looking for relevant literature yourself. 
 
-## The lab space and shared resources
-
-### Cleaning
-
-* Participate in lab cleanup at the end of every semester.
-* At the end of every meeting with the professor, both you and the professor must pick up one tool and put it away. 
-
-### Sharing resources
+## Sharing resources
 
 * Use laboratory resources carefully and frugally. If a shared supply is running out, let the professor know. 
 * Expect to share equipment and materials with your colleagues. Do not put items which may be useful to multiple people away into a project box for your own use only without discussing it with the professor.
 
-## Meetings
-
-### Group meetings
-
-### Individual meetings with the professor
-
 ## Getting started in the lab
 
-## Leaving the lab
+* If you are interested in joining the lab, let the professor know as soon as possible and set up a meeting to talk about the lab. 
+* Around 2-3 weeks before the start of the semester that you would like to start working in the lab, send the professor an email reminding her that you would like to get involved.
+* The professor will send out an email to everyone currently in the lab and everyone who has expressed interest in joining to set up a first lab meeting. Ideally this will happen the first week of classes. During this meeting, everyone will introduce themselves and the professor will introduce all of the ongoing projects in the group. She will then invite everyone to choose what they would like to work on this semester. Students who are new to the lab will be paired up with students who have been in the lab for some time already whenever possible.
+* To get credit for participating in the lab, you will need to register for COMP 412 with a 0.5 credit. You will need to write a short description of your project for the registration. Run this by the professor before you register for the course.
+* During the semester, you will have two official check-ins with the professor. During both check-ins, we will discuss how you are doing so far, whether you need any resources or support that you are not getting, and what your grade would be if you were taking the 0.5 credit graded.
+
+## Getting credit towards the COMP major
+
+* If this is your first semester in the lab, during the second check-in, we will also discuss whether you will be invited to return to the lab in the next semester, and whether you would like to return. If we agree that you should return in the next semester, I will advise you to change your ungraded 0.5 credit to a graded 0.5 credit.
+* After your first semester, if you are invited back to the lab, you may register for COMP 412 with a 0.5 graded credit.
+* If you participate in the lab in related projects for 2 adjacent semesters, earning 0.5 graded credit in each semester, you may apply this towards 1 elective credit for the COMP major.
+* Note: This is a policy for *this lab* and does not apply generally in the Computer Science program. It is also by invitation from the professor only, and each case must be approved by CADCOM. 
+
+## End of the semester
+
+* At the end of the semester, transfer the ownership of all data that you have uploaded to the Google Drive to the professor.
+* Participate in lab cleanup.
+* Ensure that all of your work is fully documented by having another student in the lab check your documentation and, if possible, attempt to follow your procedures. 
