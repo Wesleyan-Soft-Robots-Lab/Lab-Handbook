@@ -82,4 +82,8 @@ You are encouraged to consider doing a senior thesis project related to your wor
 
 * At the end of the semester, transfer the ownership of all data that you have uploaded to the Google Drive to the professor.
 * Participate in lab cleanup.
-* Ensure that all of your work is fully documented by having another student in the lab check your documentation and, if possible, attempt to follow your procedures. 
+* Ensure that all of your work is fully documented by having another student in the lab check your documentation and, if possible, attempt to follow your procedures.
+
+## Purchasing
+
+## Summer work
