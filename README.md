@@ -6,7 +6,7 @@ This handbook takes inspiration from the [Lowe-Power](https://github.com/lowepow
 
 ## Values
 
-Here are some guiding principles and standards that we hold dear and that inform our work and approach to the world:
+Here are some guiding principles and standards that inform our work and how we treat each other in the lab:
 1. We value people over projects and cultivate a collaborative community.
 2. We believe failure is a natural part of learning and celebrate not just our positive results but also our initial attempts, ongoing efforts, and failed strategies. Failure is *information*!
 3. We embrace fast and frugal prototyping approaches that both allow us to test our understanding and theories, and make science more accessible to people who couldn't otherwise afford to get involved.
@@ -14,12 +14,11 @@ Here are some guiding principles and standards that we hold dear and that inform
 
 ## Expectations
 
-These expectations are, of course, in addition to the general expectations set by the [Wesleyan Student Code of Conduct](https://www.wesleyan.edu/studentaffairs/studenthandbook/student-conduct/index.html) and all [HR code of conduct policies](https://www.wesleyan.edu/hr/handbook/standards-of-conduct/index.html). 
+These expectations are in addition to the general expectations set by the [Wesleyan Student Code of Conduct](https://www.wesleyan.edu/studentaffairs/studenthandbook/student-conduct/index.html) and all [HR code of conduct policies](https://www.wesleyan.edu/hr/handbook/standards-of-conduct/index.html). 
 
-Science is hard. There can be more failures than successes, and we may need to pivot multiple times before finding something that works. In this lab, we strive for the challenges to come from the science, not from the environment. Everyone should be able to engage with science in a hostility-free, challenging, and rewarding professional lab environment.
+All faculty, staff, and students associated with the Soft Robots Lab at Wesleyan must:
 
-In general, I expect you to:
-
+* Follow all safety protocols precisely. If you are following procedures and you still do not feel safe, pause your project and let the professor know -- there is always another way to get things done
 * Keep up-to-date documentation on your project
 * Be engaged within the research group and with outside colleagues (as appropriate for your project)
 * Treat your lab mates, lab space, lab funds, equipment, and your time with respect
