@@ -51,7 +51,7 @@ You can expect the professor to ...
 
 ## Authorship and research products
 
-* Concerns over authorship, ownership, acknowledging contributions, experimental data etc., should be discussed early and often with all parties.
+* Concerns over authorship, ownership, acknowledging contributions, experimental data etc., should be discussed early and often with all parties. If you have any questions, always feel free to ask. 
 * Be aware that your notes, records, and all tangible research data that are developed through the lab are property of the lab. This is why all GitHub repositories must be made through the Wesleyan Soft Robots Lab organization, and why all data must be uploaded to the Google drive. When you leave the lab, I encourage you to take copies of your data with you, but one full set of all data/files/notes must stay in the lab, with appropriate and clear documentation. 
 
 ## Senior thesis projects
@@ -85,5 +85,16 @@ You are encouraged to consider doing a senior thesis project related to your wor
 * Ensure that all of your work is fully documented by having another student in the lab check your documentation and, if possible, attempt to follow your procedures.
 
 ## Purchasing
+If you need something purchased for the lab, please add it to this [Google Sheets file](https://docs.google.com/spreadsheets/d/1wySf8PodM74NtWxSJMI14le3Ko19trnGy47FcvgsqiE/edit?usp=sharing). The professor will check this file at least once a week to make purchases. 
 
 ## Summer work
+If you are interested in working in the Soft Robots Lab over the summer, here is what you need to know:
+* The Soft Robots Lab is not currently accepting summer students who have not already worked with the professor for at least one semester during the school year. (This could be the spring semester before the summer starts.)
+* If you want to work in the Soft Robots lab during the summer, you will need to discuss this with the professor and make a plan for the summer starting by the end of March, because deadlines for fellowships are in April.
+* Be prepared to commit 10 weeks to summer research. We will discuss the weeks that you plan to work, and you will be paid a stipend in accordance to the number of planned weeks. Your pay will be in accordance with the pay scale for the [CIS RIS program](https://www.wesleyan.edu/cis/summer-program/research-fellowships.html). 
+
+There are a few potential avenues for summer funding: 
+* The [CIS RIS program](https://www.wesleyan.edu/cis/summer-program/research-fellowships.html), which runs from the beginning of June to the end of July. To get this fellowship, you will need to write a short proposal and obtain a letter of recommendation from the professor.
+* Grant funding (if available). If you are funded from a grant, you do not necessarily have to start at the same time or end at the same time as the CIS program, but it is good if you can overlap with it as much as possible. 
+* The [McNair Fellowship](https://www.wesleyan.edu/mcnair/apply/Program%20Benefits.html).
+* There may be other options as well -- if you find one that you think might work, please let the professor know!
