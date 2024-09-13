@@ -68,13 +68,13 @@ You are encouraged to consider doing a senior thesis project related to your wor
 * If you are interested in joining the lab, let the professor know as soon as possible and set up a meeting to talk about the lab. 
 * Around 2-3 weeks before the start of the semester that you would like to start working in the lab, send the professor an email reminding her that you would like to get involved.
 * The professor will send out an email to everyone currently in the lab and everyone who has expressed interest in joining to set up a first lab meeting. Ideally this will happen the first week of classes. During this meeting, everyone will introduce themselves and the professor will introduce all of the ongoing projects in the group. She will then invite everyone to choose what they would like to work on this semester. Students who are new to the lab will be paired up with students who have been in the lab for some time already whenever possible.
-* To get credit for participating in the lab, you will need to register for COMP 412 with a 0.5 credit. You will need to write a short description of your project for the registration. Run this by the professor before you register for the course.
+* To get credit for participating in the lab, you will need to register for COMP 423/424 with a 0.5 credit. You will need to write a short description of your project for the registration. Run this by the professor before you register for the course.
 * During the semester, you will have two official check-ins with the professor. During both check-ins, we will discuss how you are doing so far, whether you need any resources or support that you are not getting, and what your grade would be if you were taking the 0.5 credit graded.
 
 ## Getting credit towards the COMP major
 
 * If this is your first semester in the lab, during the second check-in, we will also discuss whether you will be invited to return to the lab in the next semester, and whether you would like to return. If we agree that you should return in the next semester, I will advise you to change your ungraded 0.5 credit to a graded 0.5 credit.
-* After your first semester, if you are invited back to the lab, you may register for COMP 412 with a 0.5 graded credit.
+* After your first semester, if you are invited back to the lab, you may register for COMP 423/424 with a 0.5 graded credit.
 * If you participate in the lab in related projects for 2 adjacent semesters, earning 0.5 graded credit in each semester, you may apply this towards 1 elective credit for the COMP major.
 * Note: This is a policy for *this lab* and does not apply generally in the Computer Science program. It is also by invitation from the professor only, and each case must be approved by CADCOM. 
 
