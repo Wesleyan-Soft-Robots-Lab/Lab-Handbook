@@ -96,6 +96,7 @@ If you are interested in working in the Soft Robots Lab over the summer, here is
 
 There are a few potential avenues for summer funding: 
 * The [CIS RIS program](https://www.wesleyan.edu/cis/summer-program/research-fellowships.html), which runs from the beginning of June to the end of July. To get this fellowship, you will need to write a short proposal and obtain a letter of recommendation from the professor.
+* The CoDES summer internship program (apply through the CIS form linked above).
 * Grant funding (if available). Even if you are funded from a grant, your start and end times should be in accordance with this program. 
 * The [McNair Fellowship](https://www.wesleyan.edu/mcnair/apply/Program%20Benefits.html).
 * There may be other options as well -- if you find one that you think might work, please let the professor know!
