@@ -65,6 +65,7 @@ You are encouraged to consider doing a senior thesis project related to your wor
 
 ## Getting started in the lab
 
+* **Note: Professor Roberts is not accepting new students in Spring/Summer 2027.**
 * If you are interested in joining the lab, let the professor know as soon as possible and set up a meeting to talk about the lab. 
 * Around 2-3 weeks before the start of the semester that you would like to start working in the lab, send the professor an email reminding her that you would like to get involved.
 * The professor will send out an email to everyone currently in the lab and everyone who has expressed interest in joining to set up a first lab meeting. Ideally this will happen the first week of classes. During this meeting, everyone will introduce themselves and the professor will introduce all of the ongoing projects in the group. She will then invite everyone to choose what they would like to work on this semester. Students who are new to the lab will be paired up with students who have been in the lab for some time already whenever possible.
